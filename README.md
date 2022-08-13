@@ -3,7 +3,7 @@
 <br>
 
 <div>
-<img align="left" src=".img/gabor.png" width="285">
+<img align="left" src="./img/gabor.png" width="285">
 
 A focused, analytical and a problem solver who has been working in the IT industry since 2015 and started off in the helpdesk with RBS. Then moved into a software company providing CCTV monitoring solutions called Initsys as a Customer Experience Manager - the middle man between the software developers and nontechnical customers to achieve the maximum capability of the product being offered. Computer Science degree educated from Hungary and moved to the UK in 2006.
 
