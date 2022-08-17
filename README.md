@@ -17,6 +17,7 @@ My calling is software engineering, hence I seriously took on the 16 week, full-
 
 <a href="">[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabor-havasi-365a17a6/)</a>
 <a href="">[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabor.havasi@gmail.com)</a>
+<a href="">![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)</a>
 
 <!--START_SECTION:badges-->
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/f6fb3fca-f9c4-4858-9850-fed6243df068 "AWS Certified Cloud Practitioner")
