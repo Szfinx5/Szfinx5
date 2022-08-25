@@ -11,7 +11,7 @@ My calling is software engineering, hence I seriously took on the 16 week, full-
 
 <div>
 <br>
-<p align="center">Currently I am looking for junior software development roles, contact me below:</p>
+<p align="center">Currently I am looking for a junior software engineer roles, contact me below:</p>
 
 <div align="center">
 
@@ -23,4 +23,5 @@ My calling is software engineering, hence I seriously took on the 16 week, full-
 [![CCNA](https://images.credly.com/size/110x110/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png)](http://www.credly.com/badges/6456dc32-627e-4ef1-ae67-e92be39e4c05 "CCNA")
 <!--END_SECTION:badges-->
 
+  For more information about me, <a href="https://www.havasi.co.uk" target="_blank">visit my website.</a>
 </div>
