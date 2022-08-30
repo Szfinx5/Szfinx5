@@ -11,7 +11,7 @@ My calling is software engineering, hence I seriously took on the 16 week, full-
 
 <div>
 <br>
-<p align="center">Currently I am looking for a junior software engineer roles, contact me below:</p>
+<p align="center">Currently I am looking for a junior software engineer roles, contact me below:</p>  
 
 <div align="center">
 
