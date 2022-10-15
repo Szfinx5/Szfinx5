@@ -11,8 +11,9 @@ My calling is software engineering, hence I seriously took on the 16 week, full-
 
 <div>
 <br>
+<!--
 <p align="center">Currently I am looking for a junior software engineer roles, contact me below:</p>  
-
+-->
 <div align="center">
 
 <a href="">[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabor-havasi-derby/)</a>
