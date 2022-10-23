@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabor</h1>
-<h3 align="center">I am a Junior software engineer based in Derby</h3>
+<h3 align="center">I am a Junior software engineer based in Derby</h3>                   
 <br>
 
 <div>
