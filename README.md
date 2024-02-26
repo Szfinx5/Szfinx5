@@ -1,18 +1,21 @@
 <h1 align="center">Hi 👋, I'm Gabor</h1>
-<h3 align="center">I am a Junior software engineer based in Derby</h3>                   
+<h3 align="center">I am a Full Stack Developer based in Derby</h3>                   
 <br>
 
 <div>
 <img align="left" src="./img/gabor.png" width="285">
 
-A focused, analytical and a problem solver who has been working in the IT industry since 2015. Started off in the helpdesk of RBS then moved into a software company providing CCTV monitoring solutions called Initsys as a Customer Experience Manager - the middle man between the software developers and nontechnical customers to achieve the maximum capability of the product being offered. Computer Science degree educated from Hungary and moved to the UK in 2006.
-
-My calling is software engineering, hence I seriously took on the 16 week, full-time, fully-immersive programming bootcamp with [School of Code](https://www.schoolofcode.co.uk/) to be able to gain more skills and experience while working collaboratively with like minded people in various teams to solve a wide range of problems. I have thoroughly enjoyed the course and couldn't wait to get stuck in a junior software engineer role within a progressive company where there's a scope to learn, progress and develop while utilising skills I have already gained from previous experiences.
+A focused, analytical and a problem solver who has been working in the IT industry since 2015. Started off in the helpdesk of RBS then moved into a software company providing CCTV monitoring solutions called Initsys as a Customer Experience Manager - the middle man between the software developers and nontechnical customers to achieve the maximum capability of the product being offered.                             
+Currently I am a Full Stack Developer for Cromwell Tools Ltd, developing their e-commerce platform using mainly Next.js and Material UI on the frontend, Node.js, Postgress and DynamoDB on the backend backed by AWS API Gateways, Cognito identity platform.                            
+                                   
+I am thoroughly enjoying my work, I always ready to learn, progress and develop while utilising skills I have already gained from previous experiences.                          
+                                                             
+Computer Science degree educated from Hungary and moved to the UK in 2006.                            
 
 <div>
 <br>
 <!--
-<p align="center">Currently I am looking for a junior software engineer roles, contact me below:</p>  
+<p align="center">You can contact me below:</p>  
 -->
 <div align="center">
 
