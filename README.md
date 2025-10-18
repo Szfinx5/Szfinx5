@@ -3,7 +3,7 @@
 <br>
 
 <div>
-<img align="left" src="./img/gabor.png" width="325">
+<img align="left" src="./img/gabor.png" width="345">
 
 A focused, analytical and a problem solver who has been working in the IT industry since 2015. Started off in the helpdesk of RBS then moved into a software company providing CCTV monitoring solutions called Initsys as a Customer Experience Manager - the middle man between the software developers and nontechnical customers to achieve the maximum capability of the product being offered.                             
 I used to work as a Full Stack Developer for Cromwell Tools Ltd, developing their e-commerce platform using mainly Next.js and Material UI on the frontend, Node.js, Postgress and DynamoDB on the backend backed by AWS API Gateways, Cognito identity platform. At the moment, I am a Full Stack Engineer for Bloc Digital where I can supplement my previous knowledge with Dockers, Kubernetes and Azure.                          
