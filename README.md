@@ -23,6 +23,7 @@ Computer Science degree educated from Hungary and moved to the UK in 2006.
 <a href="">[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabor.havasi@gmail.com)</a>
 
 <!--START_SECTION:badges-->
+[![AWS Certified Developer](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/badges/8cbb0dce-e29b-4545-b45f-810f1ffcc929/public_url)
 [![AWS Certified Machine Learning Engineer](https://images.credly.com/size/110x110/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png)](https://www.credly.com/badges/f32a5613-97c9-4558-a007-ade6545908cd/public_url)
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/f6fb3fca-f9c4-4858-9850-fed6243df068 "AWS Certified Cloud Practitioner")
 [![CCNA](https://images.credly.com/size/110x110/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png)](http://www.credly.com/badges/6456dc32-627e-4ef1-ae67-e92be39e4c05 "CCNA")
